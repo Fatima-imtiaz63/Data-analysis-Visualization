@@ -1,29 +1,27 @@
 # Data-analysis-Visualization
-Fitness Data Visualization Project
+End-to-End Fitness Data Analysis & Visualization
 
-📌 Project Overview
+📌 Overview
 
-This project analyzes fitness data including steps, calories, protein intake, and weight trends using Python.
-
-🛠 Tools Used
-
+This project analyzes personal fitness data using Python to uncover patterns in weight loss, calorie consumption, and activity levels.
+🛠 Tools
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 
-📊 Key Analysis
+📊 Analysis Performed
+- Data cleaning from PDF
+- Correlation analysis
+- Trend analysis (moving average)
+- Scatter and regression plots
 
-- Weight loss trend over time
-- Steps per day analysis
-- Calories vs weight relationship
-
-📈 Insights
-
-- Weight decreased over time
-- Higher steps correlated with better fitness results
-- Protein intake supported weight management
+📈 Key Insights
+- Weight decreased steadily over time
+- Higher physical activity improved results
+- Protein intake supported fat loss
+- Calorie reduction was a key factor
 
 📁 Files
-
-- "fitness_dataset.csv"
-- "analysis.ipynb"
+- fitness_dataset.csv
+- fitness_analysis.ipynb
